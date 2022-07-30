@@ -1,6 +1,4 @@
-# This is my project on C language.
-
-Terminal version of The Game Of Life.
+# Terminal version of The Game Of Life, written in C.
 
 To compile this you need to use -lncurses flag with gcc like (gcc -Wall -Werror -Wextra -o game_of_life game_of_life.c -lncurses).
 
